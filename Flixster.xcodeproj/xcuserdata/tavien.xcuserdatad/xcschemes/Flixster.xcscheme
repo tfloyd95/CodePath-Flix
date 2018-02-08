@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "19F8E72120226B580099E360"
+               BlueprintIdentifier = "19F1624B202B696100AA22F5"
                BuildableName = "Flixster.app"
                BlueprintName = "Flixster"
                ReferencedContainer = "container:Flixster.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "19F8E72120226B580099E360"
+            BlueprintIdentifier = "19F1624B202B696100AA22F5"
             BuildableName = "Flixster.app"
             BlueprintName = "Flixster"
             ReferencedContainer = "container:Flixster.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "19F8E72120226B580099E360"
+            BlueprintIdentifier = "19F1624B202B696100AA22F5"
             BuildableName = "Flixster.app"
             BlueprintName = "Flixster"
             ReferencedContainer = "container:Flixster.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "19F8E72120226B580099E360"
+            BlueprintIdentifier = "19F1624B202B696100AA22F5"
             BuildableName = "Flixster.app"
             BlueprintName = "Flixster"
             ReferencedContainer = "container:Flixster.xcodeproj">

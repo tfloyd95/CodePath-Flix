@@ -6,7 +6,5 @@ target 'Flixster' do
   use_frameworks!
 
   # Pods for Flixster
-    pod 'AlamofireImage', '~> 3.3' 	
-  # Add additional dependencies
-   
+  pod 'AlamofireImage', '~> 3.3' 
 end

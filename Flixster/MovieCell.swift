@@ -2,19 +2,21 @@
 //  MovieCell.swift
 //  Flixster
 //
-//  Created by Tavien on 2/4/18.
+//  Created by Tavien on 2/7/18.
 //  Copyright © 2018 Warpedflo. All rights reserved.
 //
 
 import UIKit
 
-class MovieCell: UITableViewCell
-{
-    @IBOutlet weak var titleLabel: UILabel!
-    @IBOutlet weak var overviewLabel: UILabel!
-    @IBOutlet weak var posterView: UIImageView!
-    
+class MovieCell: UITableViewCell {
 
+    @IBOutlet weak var titleLabel: UILabel!
+    
+    @IBOutlet weak var overviewLabel: UILabel!
+    
+    @IBOutlet weak var posterImageView: UIImageView!
+    
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
